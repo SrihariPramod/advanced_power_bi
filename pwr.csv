@@ -1,0 +1,131 @@
+budget,country,genre,gross,name,score,Col
+110000000,Hong Kong,Action,61284947,Horizonte profundo,7.2,red
+178000000,USA,Action,155442489,X-Men: Apocalypse,7.0,red
+10000000,USA,Action,79003080,The Purge: Election Year,6.0,red
+85000000,UK,Action,40069087,Allied,7.1,red
+20000000,USA,Action,12626905,Triple 9,6.3,red
+135000000,USA,Action,82051601,Teenage Mutant Ninja Turtles: Out of the Shadows,6.0,red
+120000000,UK,Action,162434410,Jason Bourne,6.7,red
+180000000,UK,Action,126643061,The Legend of Tarzan,6.3,red
+31500000,USA,Action,14268533,Criminal,6.3,red
+50000000,USA,Action,127440871,Central Intelligence,6.3,red
+10000000,UK,Action,1798472,Free Fire,6.5,red
+115000000,USA,Action,47952020,The Huntsman: Winter's War,6.1,red
+5000000,USA,Action,10164675,The Belko Experiment,6.1,red
+150000000,USA,Action,45157105,The Great Wall,6.0,red
+20000000,USA,Action,36874745,Risen,6.3,red
+90000000,France,Action,65075540,Los ilusionistas 2,6.5,red
+108000000,USA,Action,10377558,Live by Night,6.4,red
+60000000,China,Action,58399160,Jack Reacher: Sin regreso,6.1,red
+160000000,China,Action,47365290,Warcraft: The Beginning,6.9,red
+50000000,Malta,Action,52853219,13 Hours,7.3,red
+35000000,UK,Action,6864016,The Brothers Grimsby,6.2,red
+80000000,USA,Action,27550735,The Finest Hours,6.8,red
+75000000,USA,Action,34343574,Inferno,6.2,red
+200000000,USA,Action,532177324,Rogue One,7.9,red
+250000000,USA,Action,408084349,Captain America: Civil War,7.9,red
+50000000,USA,Action,20758378,Free State of Jones,6.9,red
+44000000,USA,Action,86198014,The Accountant,7.4,red
+58000000,USA,Action,363070709,Deadpool,8.0,red
+15000000,USA,Action,20566327,Keanu,6.3,red
+65000000,USA,Action,76204454,Pete's Dragon,6.7,red
+90000000,USA,Action,93381044,The Magnificent Seven,6.9,red
+250000000,USA,Action,330360194,Batman v Superman: Dawn of Justice,6.6,red
+185000000,USA,Action,158848340,Star Trek Beyond,7.1,red
+165000000,USA,Action,232641920,Doctor Strange,7.5,red
+175000000,USA,Action,325100054,Suicide Squad,6.2,red
+20000000,UK,Action,39000,The Take,6.3,red
+20000000,Panama,Action,4711736,Manos de piedra,6.6,red
+33000000,USA,Adventure,46007113,Mike and Dave Need Wedding Dates,6.0,green
+175000000,UK,Adventure,364001123,The Jungle Book,7.5,green
+180000000,UK,Adventure,234037575,Fantastic Beasts and Where to Find Them,7.4,green
+30000000,USA,Adventure,8574339,The Lost City of Z,6.6,green
+130000,USA,Adventure,13557,Till We Meet Again,6.9,green
+140000000,USA,Adventure,55483770,The BFG,6.4,green
+20000000,USA,Adventure,7222964,Gold,6.7,green
+3000000,USA,Adventure,4208879,Swiss Army Man,7.0,green
+46000000,USA,Adventure,7079191,Silence,7.2,green
+110000000,UK,Adventure,87242834,Miss Peregrine's Home for Peculiar Children,6.7,green
+110000000,USA,Adventure,100014699,Passengers,7.0,green
+20000000,USA,Adventure,38562379,Nerve,6.6,green
+170000000,USA,Adventure,77042381,Alice Through the Looking Glass,6.2,green
+200000000,USA,Animation,486295561,Finding Dory,7.4,cyan
+70000000,USA,Animation,72655779,Storks,6.8,cyan
+60000000,USA,Animation,48023088,Kubo and the Two Strings,7.8,cyan
+8500000,USA,Animation,19985196,Middle School: The Worst Years of My Life,6.1,cyan
+73000000,Finland,Animation,107509366,The Angry Birds Movie,6.3,cyan
+145000000,China,Animation,143528619,Kung Fu Panda 3,7.1,cyan
+3500000,USA,Animation,3775000,Batman: The Killing Joke,6.5,cyan
+150000000,USA,Animation,341268248,Zootopia,8.0,cyan
+75000000,USA,Animation,270329045,Sing,7.1,cyan
+19000000,USA,Animation,97661826,Sausage Party,6.2,cyan
+75000000,Japan,Animation,368384330,La vida secreta de tus mascotas,6.6,cyan
+30000000,France,Animation,12760985,Leap!,6.8,cyan
+125000000,USA,Animation,153707064,Trolls,6.5,cyan
+150000000,USA,Animation,248757044,Moana,7.6,cyan
+28000000,UK,Biography,15425870,The Infiltrator,7.0,yellow
+14000000,Czech Republic,Biography,3901302,A United Kingdom,6.8,yellow
+25000000,USA,Biography,12785093,The Founder,7.2,yellow
+8000000,UK,Biography,35070,A Street Cat Named Bob,7.4,yellow
+9000000,UK,Biography,7696098,Loving,7.0,yellow
+8500000,USA,Biography,15858754,The Birth of a Nation,6.3,yellow
+40000000,Australia,Biography,67115062,Hasta el último hombre,8.2,yellow
+12000000,UK,Biography,51694854,Lion,8.1,yellow
+6000000,USA,Biography,4847865,Bleed for This,6.8,yellow
+35000000,USA,Biography,23049575,Whiskey Tango Foxtrot,6.6,yellow
+25000000,USA,Biography,169380936,Hidden Figures,7.8,yellow
+29000000,UK,Biography,27370107,Florence Foster Jenkins,6.9,yellow
+60000000,USA,Biography,125070033,Sully,7.5,yellow
+13000000,USA,Biography,61693523,Miracles from Heaven,7.0,yellow
+40000000,France,Biography,21587519,Snowden,7.3,yellow
+9000000,Chile,Biography,13958679,Jackie,6.8,yellow
+10000000,UK,Biography,4072226,Denial,6.6,yellow
+23000000,UK,Biography,15785632,Eddie the Eagle,7.4,yellow
+7000000,USA,Comedy,5663855,20th Century Women,7.4,orange
+20000000,USA,Comedy,9393835,Popstar: Never Stop Never Stopping,6.7,orange
+38000000,USA,Comedy,46813366,How to Be Single,6.1,orange
+3800000,USA,Comedy,1016872,The Hollars,6.5,orange
+30000000,UK,Comedy,4198126,A Hologram for the King,6.1,orange
+10000000,USA,Comedy,3369431,Everybody Wants Some!!,7.0,orange
+18000000,USA,Comedy,59573085,My Big Fat Greek Wedding 2,6.0,orange
+900000,USA,Comedy,9093856,Meet the Blacks,6.0,orange
+8000000,USA,Comedy,685143,Mr. Church,7.7,orange
+3000000,Ireland,Comedy,14013564,Love & Friendship,6.5,orange
+17000000,USA,Comedy,41715860,Almost Christmas,6.0,orange
+30000000,USA,Comedy,151101803,La La Land,8.2,orange
+27500000,USA,Comedy,35537564,Dirty Grandpa,6.0,orange
+30000000,USA,Comedy,11103205,Café Society,6.7,orange
+38000000,USA,Comedy,60269575,Why Him?,6.3,orange
+40000000,USA,Comedy,43017433,War Dogs,7.1,orange
+20000000,USA,Comedy,113257297,Bad Moms,6.2,orange
+22000000,UK,Comedy,30080225,"Hail, Caesar!",6.3,orange
+9000000,USA,Comedy,14260193,The Edge of Seventeen,7.4,orange
+35000000,Ireland,Comedy,24252420,El bebé de Bridget Jones,6.6,orange
+50000000,USA,Comedy,36261763,The Nice Guys,7.4,orange
+45000000,USA,Crime,75311445,The Girl on the Train,6.5,magenta
+45000000,Hong Kong,Crime,31886361,Día del atentado,7.4,magenta
+27000000,USA,Crime,41012075,Money Monster,6.5,magenta
+9900000,USA,Crime,89210468,Don't Breathe,7.2,magenta
+22500000,USA,Crime,10639114,Nocturnal Animals,7.5,magenta
+12000000,USA,Crime,26862450,Hell or High Water,7.6,magenta
+18000000,USA,Drama,3707794,Midnight Special,6.7,blue
+40000000,USA,Drama,8106986,A Cure for Wellness,6.4,blue
+17000000,USA,Drama,55121623,The Shallows,6.3,blue
+36000000,USA,Drama,30982955,Collateral Beauty,6.8,blue
+24000000,USA,Drama,57642961,Fences,7.2,blue
+20000000,UK,Drama,12545979,The Light Between Oceans,7.2,blue
+6000000,France,Drama,1305195,Personal Shopper,6.2,blue
+43000000,UK,Drama,3730982,A Monster Calls,7.5,blue
+13000000,France,Drama,3439171,Sola contra el poder,7.4,blue
+40000000,UK,Drama,1721524,Billy Lynn's Long Halftime Walk,6.3,blue
+1500000,USA,Drama,27850912,Moonlight,7.5,blue
+20000000,UK,Drama,56245075,Me Before You,7.4,blue
+8500000,USA,Drama,47695120,Manchester by the Sea,7.9,blue
+47000000,USA,Drama,100546139,Arrival,8.0,blue
+15000000,USA,Drama,71897215,10 Cloverfield Lane,7.2,blue
+9000000,USA,Horror,34904885,Ouija: Origin of Evil,6.1,k
+4900000,USA,Horror,67235683,Lights Out,6.4,k
+9000000,Japan,Horror,138141585,Split,7.3,k
+40000000,Canada,Horror,102470008,The Conjuring 2,7.4,k
+7000000,Denmark,Horror,1333124,El demonio neón,6.2,k
+8000000,USA,Horror,35794166,The Boy,6.0,k
